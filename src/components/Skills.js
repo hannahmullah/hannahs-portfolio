@@ -2,7 +2,7 @@ import React from 'react';
 
 const Skills = () => {
     return (
-        <div name='skills' className='w-full h-screen bg-gradient-to-r from-[#0bbbc8] to-[#a9c7ab] text-[#fff]'>
+        <div name='skills' className='w-full h-screen bg-gradient-to-t from-[#0bbbc8] to-[#a9c7ab] text-[#fff]'>
             {/* Container */}
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className=' w-full flex justify-center items-center flex-col mb-7'>
