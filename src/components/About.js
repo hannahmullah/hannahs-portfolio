@@ -8,7 +8,7 @@ const About = () => {
             className="w-full md:h-screen text-white bg-[#FFF]"
         > {/*c39a98 */} {/*bg-gradient-to-r from-[#c28688] to-[#d99787]*/}
             <div className="p-4 flex flex-col justify-center items-center w-full h-full">
-                <div className=" py-16 rounded-md bg-gradient-to-t from-[#c28688] to-[#d99787] flex flex-col justify-center items-center w-4/6">
+                <div className=" py-16 rounded-md bg-gradient-to-t from-[#c28688] to-[#d99787] flex flex-col justify-center items-center w-6/6 md:w-4/6">
                     <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 mb-4">
                         <div className="sm:text-right pb-8 pl-4">
                             <p className="text-4xl font-bold inline border-b-4 border-[#0bbbc8]">
