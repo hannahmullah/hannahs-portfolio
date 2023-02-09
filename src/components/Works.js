@@ -25,7 +25,7 @@ const Works = () => {
                             </span>
                             <p className='text-center'>A CBT web application built with React and Mongodb</p>
                             <div className='pt-8 text-center'>
-                                <a href='/'>
+                                <a href='https://hannahmullah.github.io/REACT-ToDoList/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
@@ -49,7 +49,7 @@ const Works = () => {
                             </span>
                             <p className='text-center'>A CBT web application built with React and Mongodb</p>
                             <div className='pt-8 text-center'>
-                                <a href='/'>
+                                <a href='https://hannahmullah.github.io/REACT-calculatorApp/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
@@ -73,7 +73,7 @@ const Works = () => {
                             </span>
                             <p className='text-center'>A CBT web application built with React and Mongodb</p>
                             <div className='pt-8 text-center'>
-                                <a href='/'>
+                                <a href='https://hannahmullah.github.io/REACT-counterApp/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
