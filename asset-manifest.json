@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/hannahs-portfolio/static/css/main.1f8a2fd9.css",
-    "main.js": "/hannahs-portfolio/static/js/main.3836c55b.js",
+    "main.js": "/hannahs-portfolio/static/js/main.833acefe.js",
     "static/media/me.jpg": "/hannahs-portfolio/static/media/me.b6577bf6409a2df0ee45.jpg",
+    "static/media/instaclone.PNG": "/hannahs-portfolio/static/media/instaclone.58833da260b9500d29aa.PNG",
     "static/media/calculator.PNG": "/hannahs-portfolio/static/media/calculator.69243b28ca9b3e62e204.PNG",
+    "static/media/drumkit.PNG": "/hannahs-portfolio/static/media/drumkit.ec1e3c706a2cee7746a3.PNG",
     "static/media/counter.PNG": "/hannahs-portfolio/static/media/counter.2c59116dd0484355c858.PNG",
     "static/media/hm-cv.pdf": "/hannahs-portfolio/static/media/hm-cv.91e764a7585c4cfd8c31.pdf",
     "static/media/todolist.PNG": "/hannahs-portfolio/static/media/todolist.5894723464ad38b3e887.PNG",
     "static/media/code2.png": "/hannahs-portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
+    "static/media/cyberpet.PNG": "/hannahs-portfolio/static/media/cyberpet.940fb7bcc4d735e3812f.PNG",
     "index.html": "/hannahs-portfolio/index.html",
     "main.1f8a2fd9.css.map": "/hannahs-portfolio/static/css/main.1f8a2fd9.css.map",
-    "main.3836c55b.js.map": "/hannahs-portfolio/static/js/main.3836c55b.js.map"
+    "main.833acefe.js.map": "/hannahs-portfolio/static/js/main.833acefe.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8a2fd9.css",
-    "static/js/main.3836c55b.js"
+    "static/js/main.833acefe.js"
   ]
 }
